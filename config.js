@@ -29,7 +29,7 @@ const config = {
     },
 
     session: {
-        pairingNumber: '6285607618334',   // Nomor WA yang akan di-pair
+        pairingNumber: '6281553671793',   // Nomor WA yang akan di-pair
         usePairingCode: true              // true = Pairing Code, false = QR Code
     },
 
@@ -321,3 +321,4 @@ module.exports = {
     setBotNumber,
     isSelf
 }
+
